@@ -1,2 +1,2 @@
 # GeneralPool
-connection pool.
+redis、mysql、sql server
